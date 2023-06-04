@@ -22,7 +22,7 @@
 }
 
 #sobre .titulo-sobre {
-    background: url('/portifolio-nid/Portifolio/img/avatares/papeldeparede.jpg'); 
+    background: url(''); 
     background-repeat: repeat;
     background-position: center;
     padding-top: 14%;
@@ -50,10 +50,11 @@
 }
 
 #sobre .paragrafo {
-    width: 60%;
+    width: 100%;
     display: flex;
     align-items: flex-end;
     flex-direction: column;
+    
 }
 #sobre .paragrafo1 {
     width: 100%;
