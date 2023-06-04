@@ -111,10 +111,13 @@ main {
 [data-semana].aberto::after {
     background: #3F4;
 }
+
+
 @media (max-width: 912px) {
     .whatsapp-ico{
-        height: 120px;
-        width: 120px;
+        height: 70px;
+        width: 70px;
+        position: block;
     }   
 }
 @media (max-width: 912px) {
