@@ -111,13 +111,16 @@ textarea {
 }
 
 #contato .img-contact img {
-    width: 100%;
+    width: 50%;
     height: auto;
+
 }
 
 #contato .img-contact {
     margin: 0 10px;
-    animation: animate 5s linear infinite;
+    animation: animate 4s linear infinite;
+    
+    
 }
 
 @keyframes animate {
